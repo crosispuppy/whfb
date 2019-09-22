@@ -2396,7 +2396,7 @@ At the start of the Remaining Moves sub-phase of your first turn, roll a D6 for 
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="pts" costTypeId="points" value="0.0"/>
+            <cost name="pts" costTypeId="points" value="275.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -2462,7 +2462,7 @@ At the start of the Remaining Moves sub-phase of your first turn, roll a D6 for 
       </selectionEntryGroups>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="275.0"/>
+        <cost name="pts" costTypeId="points" value="0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1132adf7-8dd4-409e-2656-2b9fa1cbfb1f" name="Orion" page="0" hidden="false" collective="false" categoryEntryId="4c6f72647323232344415441232323" type="model">
